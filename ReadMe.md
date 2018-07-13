@@ -1,4 +1,4 @@
-#Currency Converter
+#Currency-Converter
 
 This is a GUI Application that converts from Dollar to your local currency.
 
